@@ -2,5 +2,9 @@
     "whitelist": [
         "pugface_",
         "fried_yolk"
-    ]
+    ],
+    "names": [
+        "gavin"
+    ],
+    "resolution": [800, 480]
 }
